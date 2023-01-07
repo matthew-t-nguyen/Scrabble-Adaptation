@@ -1,5 +1,5 @@
 # Scrabble-Adaptation
-"Scrabble Adaptation" Project
+"Scrabble Adaptation" Project (My first Project Ever!)
 
 **OVERVIEW**
 
